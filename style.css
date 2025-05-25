@@ -1,0 +1,122 @@
+*{
+  padding: 0;
+  font-family:sans-serif ;
+  margin: 0 auto;
+  background: #000;
+  max-width: 1100px;
+}
+
+#profile{
+  text-align: center;
+}
+
+#profile h1{
+  color: #fff;
+}
+
+#profile-pic{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+#summary{
+  padding-top: 15px;
+}
+
+#summary h2{
+  color: #fff;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#summary p{
+  color: #fff;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#education{
+  padding-top: 15px;
+}
+
+#education h2{
+  color: #fff;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#education li{
+  color: #fff;
+  text-align: center;
+  list-style-type: none;
+  padding-bottom: 15px;
+}
+
+#work-experience{
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+#work-experience h2, h3, li{
+  color: #fff;
+}
+
+#work-experience h2{
+  padding-bottom: 8px;
+  
+}
+
+#work-experience h3{
+  padding-bottom: 15px;
+}
+
+#work-experience li{
+  padding-bottom: 10px;
+}
+
+#work-experience em{
+  color: #fff;
+  
+}
+
+#skills h2, li{
+  color: #fff;
+}
+
+#skills h2{
+  padding-bottom: 15px;
+}
+
+.btn{
+  padding-left: 15px;
+  padding-bottom: 10px;
+}
+
+
+#award h2, li{
+  color: #fff;
+}
+
+#award h2{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+#award li{
+  padding-bottom: 8px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
